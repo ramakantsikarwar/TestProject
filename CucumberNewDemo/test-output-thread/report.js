@@ -1,58 +1,58 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "f794f069-af88-4f58-82be-e0476a4c2a2c",
-    "feature": "Account Page Feature",
-    "scenario": "Accounts section count",
-    "start": 1622342738341,
-    "group": 15,
-    "content": "",
-    "tags": "@accounts,",
-    "end": 1622342776065,
-    "className": "passed"
-  },
-  {
-    "id": "29c9a173-3276-4069-91bc-d9ea9e758d5c",
-    "feature": "Account Page Feature",
-    "scenario": "Accounts page title",
-    "start": 1622342738354,
-    "group": 14,
-    "content": "",
-    "tags": "@accounts,",
-    "end": 1622342775998,
-    "className": "passed"
-  },
-  {
-    "id": "ff7cd962-367e-4c7c-9233-f24039c56493",
+    "id": "60c965bc-d6e7-4bae-beab-e8de67339590",
     "feature": "Login page feature",
     "scenario": "Forgot Password link",
-    "start": 1622342738236,
+    "start": 1622347021764,
     "group": 17,
     "content": "",
     "tags": "",
-    "end": 1622342776040,
+    "end": 1622347057301,
     "className": "failed"
   },
   {
-    "id": "b820cd15-215f-45a9-93a2-f1bb9cb79f53",
-    "feature": "Login page feature",
-    "scenario": "Login page title",
-    "start": 1622342738340,
-    "group": 16,
+    "id": "0809aad0-f40c-40e0-b45f-d043d2c897e1",
+    "feature": "Account Page Feature",
+    "scenario": "Accounts section count",
+    "start": 1622347021905,
+    "group": 15,
     "content": "",
-    "tags": "",
-    "end": 1622342775080,
+    "tags": "@accounts,",
+    "end": 1622347061633,
     "className": "passed"
   },
   {
-    "id": "f3c25b63-99a9-4e37-896e-e603688cec80",
+    "id": "4fe9ffac-df86-4c6e-9319-8f8fb90fe830",
+    "feature": "Account Page Feature",
+    "scenario": "Accounts page title",
+    "start": 1622347021926,
+    "group": 14,
+    "content": "",
+    "tags": "@accounts,",
+    "end": 1622347061577,
+    "className": "passed"
+  },
+  {
+    "id": "e464b86a-6e63-486b-bfaa-e7e5b148b4f6",
     "feature": "Login page feature",
     "scenario": "Login with correct credentials",
-    "start": 1622342738340,
+    "start": 1622347021921,
     "group": 18,
     "content": "",
     "tags": "",
-    "end": 1622342776988,
+    "end": 1622347061514,
+    "className": "passed"
+  },
+  {
+    "id": "e20cd1c0-bd2e-4c06-994f-b32d03195676",
+    "feature": "Login page feature",
+    "scenario": "Login page title",
+    "start": 1622347021923,
+    "group": 16,
+    "content": "",
+    "tags": "",
+    "end": 1622347057539,
     "className": "passed"
   }
 ]);
